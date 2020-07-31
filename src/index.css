@@ -31,3 +31,7 @@ button:hover{
 .content{
   text-align: left;
 }
+button:disabled {
+  opacity: 0.2;
+  cursor: not-allowed;
+}
